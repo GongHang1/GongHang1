@@ -1,5 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:58a6ff&height=220&section=header&text=GongHang&fontSize=68&fontColor=f0f6fc&desc=Full-stack%20Technology%20Explorer&descSize=20&descAlignY=78" alt="GongHang header" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:58a6ff&height=220&section=header&text=GongHang&fontSize=68&fontColor=f0f6fc&desc=Full-stack%20Technology%20Explorer&descSize=20&descAlignY=68" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,45:d0d7de,100:0969da&height=220&section=header&text=GongHang&fontSize=68&fontColor=24292f&desc=Full-stack%20Technology%20Explorer&descSize=20&descAlignY=68" alt="GongHang header" />
+  </picture>
 </p>
 
 <p align="center">
@@ -40,7 +43,10 @@ timeline
 
 <p align="center">
   <a href="https://github.com/GongHang1/idea-immersive-translate">
-    <img width="88%" src="https://socialify.git.ci/GongHang1/idea-immersive-translate/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="IDEA Immersive Translate" />
+    <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/GongHang1/idea-immersive-translate/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
+  <img width="88%" src="https://socialify.git.ci/GongHang1/idea-immersive-translate/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" alt="IDEA Immersive Translate" />
+</picture>
   </a>
 </p>
 
@@ -71,13 +77,19 @@ The repositories below are clearly identified as forks. I use them to study arch
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/GongHang1/Trellis">
-<img width="100%" src="https://socialify.git.ci/GongHang1/Trellis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="Trellis fork" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/GongHang1/Trellis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
+  <img width="100%" src="https://socialify.git.ci/GongHang1/Trellis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" alt="Trellis fork" />
+</picture>
 </a>
 <p><strong>Agent harness study</strong><br />Python, TypeScript, Shell, and JavaScript experiments based on <a href="https://github.com/mindfold-ai/Trellis">mindfold-ai/Trellis</a>.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/GongHang1/grok2api">
-<img width="100%" src="https://socialify.git.ci/GongHang1/grok2api/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="grok2api fork" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/GongHang1/grok2api/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
+  <img width="100%" src="https://socialify.git.ci/GongHang1/grok2api/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" alt="grok2api fork" />
+</picture>
 </a>
 <p><strong>API compatibility study</strong><br />FastAPI gateway exploration based on <a href="https://github.com/chenyme/grok2api">chenyme/grok2api</a>.</p>
 </td>
@@ -85,13 +97,19 @@ The repositories below are clearly identified as forks. I use them to study arch
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/GongHang1/overaicoding">
-<img width="100%" src="https://socialify.git.ci/GongHang1/overaicoding/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="overaicoding fork" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/GongHang1/overaicoding/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
+  <img width="100%" src="https://socialify.git.ci/GongHang1/overaicoding/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" alt="overaicoding fork" />
+</picture>
 </a>
 <p><strong>Coding-agent customization</strong><br />TypeScript and Rust exploration based on <a href="https://github.com/anomalyco/opencode">anomalyco/opencode</a>.</p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/GongHang1/claude-code">
-<img width="100%" src="https://socialify.git.ci/GongHang1/claude-code/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" alt="claude-code fork" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/GongHang1/claude-code/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" />
+  <img width="100%" src="https://socialify.git.ci/GongHang1/claude-code/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Light" alt="claude-code fork" />
+</picture>
 </a>
 <p><strong>Python coding-agent study</strong><br />Educational feature-port exploration based on <a href="https://github.com/ultraworkers/claw-code">ultraworkers/claw-code</a>.</p>
 </td>
@@ -114,7 +132,10 @@ flowchart LR
 
 ## Contribution signal
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GongHang1&theme=github-dark&hide_border=true&area=true&radius=8" alt="GitHub contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GongHang1&theme=github-dark&hide_border=true&area=true&radius=8" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GongHang1&theme=github-light&hide_border=true&area=true&radius=8" alt="GitHub contribution activity graph" />
+</picture>
 
 <p align="center">
   <picture>
@@ -128,5 +149,8 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,55:161b22,100:0d1117&height=120&section=footer" alt="Footer wave" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,55:161b22,100:0d1117&height=120&section=footer" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,55:d0d7de,100:f6f8fa&height=120&section=footer" alt="Footer wave" />
+  </picture>
 </p>
